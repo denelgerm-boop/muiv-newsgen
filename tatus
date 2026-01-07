@@ -1,0 +1,3 @@
+[33m92ec30e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m chore: add http client and diagnostics for muiv antibot
+[33mcaaa876[m feat: add muiv news index scraper
+[33mbb2da74[m init: project structure, main, requirements, streamlit ui
