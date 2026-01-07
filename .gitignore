@@ -22,3 +22,11 @@ data/cache/
 data/raw/
 
 data/processed/
+
+# Не коммитим сгенерированные данные
+data/raw/*
+data/processed/*
+
+# Но оставляем "якорные" файлы, чтобы папки существовали в репо
+!data/raw/.gitkeep
+!data/processed/.gitkeep
