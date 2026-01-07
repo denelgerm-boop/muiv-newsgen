@@ -1,0 +1,1 @@
+python -m src.data.kudago_download --location msk --pages 10 --page-size 100 --make-pairs 
