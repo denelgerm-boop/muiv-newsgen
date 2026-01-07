@@ -18,15 +18,11 @@ data/cache/
 
 # Logs
 
-# Logs/
-data/raw/
-
-data/processed/
-
-# Не коммитим сгенерированные данные
+# generated datasets (do not commit)
 data/raw/*
 data/processed/*
+data/cache/*
 
-# Но оставляем "якорные" файлы, чтобы папки существовали в репо
+# keep folders in repo
 !data/raw/.gitkeep
 !data/processed/.gitkeep
