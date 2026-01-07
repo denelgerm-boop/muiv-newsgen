@@ -1,13 +1,20 @@
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
+# Virtual environments
 .venv/
 venv/
 
+# IDE
 .idea/
 .vscode/
 
+# Temporary cache / html dumps
 data/cache/
 *.html
 
+# Logs
 logs/
