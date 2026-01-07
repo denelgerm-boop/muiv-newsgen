@@ -1,0 +1,17 @@
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+tqdm
+scikit-learn
+joblib
+torch
+transformers
+sentencepiece
+accelerate
+evaluate
+rouge-score
+streamlit
+pydantic
+matplotlib
