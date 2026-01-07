@@ -17,4 +17,8 @@ data/cache/
 *.html
 
 # Logs
-logs/
+
+# Logs/
+data/raw/
+
+data/processed/
